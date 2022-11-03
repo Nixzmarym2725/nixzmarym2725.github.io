@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #ccc2ef; /* Blue */
+    background-color: #ffffff; /* Blue */
     color: #ffffff;
 }
 
@@ -79,5 +79,5 @@ a {
 }
 
 .navbar-nav li a:hover {
-    color:#ccc2ef; !important;
+    color:#ffffff; !important;
 }
