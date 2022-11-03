@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #e7bcdf;
+    color: #ffffff;
 }
 
 p {
@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #e7bcdf; /* White */
+    background-color: #ffffff; /* White */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #ccc2ef; /* Blue */
     color: #ffffff;
 }
 
@@ -79,5 +79,5 @@ a {
 }
 
 .navbar-nav li a:hover {
-    color: #2e72a1 !important;
+    color:#ccc2ef; !important;
 }
