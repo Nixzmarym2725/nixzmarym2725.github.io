@@ -60,7 +60,7 @@ a {
 
 .bg-4 {
     background-color: #343a40; /* Dark Gray */
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 .container-fluid {
